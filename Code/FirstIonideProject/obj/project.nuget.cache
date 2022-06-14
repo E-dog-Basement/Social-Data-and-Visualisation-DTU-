@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cBb5xR6OwXvmL7olZbxQpE+ybkZ7VV3lV9WujI5/QOS9Na8MisA7yDoawsv14/Z0yOpYvOYJqCzwDmFh0BCe4A==",
+  "success": true,
+  "projectFilePath": "/Users/sunyukang/Documents/Study/DTU/Second/F#/Project1/Code/FirstIonideProject/FirstIonideProject.fsproj",
+  "expectedPackageFiles": [
+    "/Users/sunyukang/.nuget/packages/fsharp.core/6.0.4/fsharp.core.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
